@@ -6,7 +6,7 @@ namespace Deg540\koans\Test;
 
 use PHPUnit\Framework\TestCase;
 
-final class ExampleTest extends TestCase
+final class VariablesTest extends TestCase
 {
 
 }

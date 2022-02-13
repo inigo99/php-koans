@@ -3,7 +3,7 @@
     "description": "php koans library",
     "type": "project",
     "require": {
-        "php": "^7.4"
+        "php": "^8"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.3.10"
